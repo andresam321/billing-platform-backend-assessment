@@ -5,7 +5,7 @@ A subscription & API usage tracking platform. You've inherited this codebase fro
 ---
 
 ## Setup
-
+CD billing-platform
 ```bash
 pnpm install
 pnpm dev      # starts backend on :3001 and frontend on :5173
